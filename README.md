@@ -1,5 +1,5 @@
 
-# Zoom Fit Google Docs
+# Add Iframe Access
 
 This Chrome Extension Performs adds the following access in the iframe's allow attribute:
  - accelerometer
