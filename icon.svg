@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="icon.svg">
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/glaza/github-repos/AddIframeAccess/icon.png"
+   inkscape:export-xdpi="20.32"
+   inkscape:export-ydpi="20.32">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -55,63 +58,41 @@
      id="layer1">
     <rect
        id="rect10"
-       width="150.43452"
-       height="128.13393"
-       x="24.190475"
-       y="75.505951"
-       style="fill:none;stroke:#2e2f94;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       width="149.25"
+       height="149.25"
+       x="24.565477"
+       y="54.014881"
+       style="fill:none;stroke:#2e2f94;stroke-width:10.75000191;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="fill:none;stroke:#2e2f94;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#2e2f94;stroke-width:10.77318764;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4506"
-       width="145.89882"
-       height="3.4017856"
-       x="24.568451"
-       y="108.0119" />
-    <rect
-       style="fill:none;stroke:#2e2f94;stroke-width:9.06004238;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4508"
-       width="43.828548"
-       height="43.838154"
-       x="-86.582077"
-       y="139.18752"
-       transform="matrix(0.69647817,-0.71757798,0.72180929,0.69209201,0,0)" />
-    <rect
-       transform="matrix(0.69647817,-0.71757798,0.72180929,0.69209201,0,0)"
-       y="180.13564"
-       x="-47.61504"
-       height="43.838154"
-       width="43.828548"
-       id="rect4512"
-       style="fill:none;stroke:#2e2f94;stroke-width:9.06004238;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:48.03393936;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4510"
-       width="68.440262"
-       height="71.751625"
-       x="66.272774"
-       y="121.57278" />
+       width="145.82837"
+       height="3.9500735"
+       x="24.954025"
+       y="92.211418" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:Dingbats;letter-spacing:0px;word-spacing:0px;fill:#2e2f94;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="59.720238"
-       y="167.73215"
-       id="text4516"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.40162373px;line-height:125%;font-family:Dingbats;-inkscape-font-specification:Dingbats;letter-spacing:0px;word-spacing:0px;fill:#2e2f94;fill-opacity:1;stroke:none;stroke-width:0.28504059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="40.729656"
+       y="151.99393"
+       id="text4516"
+       transform="scale(0.9277821,1.0778393)"><tspan
          sodipodi:role="line"
          id="tspan4514"
-         x="59.720238"
-         y="167.73215"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e2f94;fill-opacity:1;stroke-width:0.26458332px;">allow</tspan></text>
+         x="40.729656"
+         y="151.99393"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.00541306px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e2f94;fill-opacity:1;stroke-width:0.28504059px">&lt;allow&gt;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.82818794px;line-height:125%;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e2f94;fill-opacity:1;stroke:none;stroke-width:0.57070148px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="43.615273"
-       y="116.92939"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.59323502px;line-height:125%;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e2f94;fill-opacity:1;stroke:none;stroke-width:0.61482739px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="47.352192"
+       y="89.773605"
        id="text4520"
-       transform="scale(1.1747897,0.85121615)"><tspan
+       transform="scale(1.0899489,0.91747424)"><tspan
          sodipodi:role="line"
          id="tspan4518"
-         x="43.615273"
-         y="116.92939"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.82818794px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e2f94;fill-opacity:1;stroke-width:0.57070148px">iframe</tspan></text>
+         x="47.352192"
+         y="89.773605"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.59323502px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e2f94;fill-opacity:1;stroke-width:0.61482739px">iframe</tspan></text>
   </g>
 </svg>
